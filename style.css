@@ -42,6 +42,18 @@ section{
     margin-left: 4%;
     margin-right: 4%;
 }
+#flexi-ble{
+    display: flex;
+    margin-left: 20px;
+    padding: 20px;
+}
+#flexi-ble img{
+  width: 80%;
+  padding: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 #div1{
     background-image: url(images/shapes/shape-2.png);
     background-repeat: no-repeat;
